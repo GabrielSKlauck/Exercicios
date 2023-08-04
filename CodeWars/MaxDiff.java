@@ -1,5 +1,6 @@
 package CodeWars;
 public class MaxDiff{
+    //Diferenaça entre o maior e o menor numero de uma lista de inteiros
     public static void main(String[] args){
         Integer[] lista = new Integer[4];
         lista[0] = 1;
